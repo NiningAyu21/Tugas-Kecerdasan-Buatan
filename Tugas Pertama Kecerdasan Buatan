@@ -17,7 +17,17 @@ Kelas : TP-B Pagi
       - Robotika 
       
 Jawab:
-1. Membaca Artikel
+1. Membaca Artikel.
+
+• Apakah anda setuju atau tidak dengan pendapat Turing?
+Ya, saya setuju dengan pendapat Allan Turing yang mengatakan bahwa jika sebuah komputer tidak lagi bisa dibedakan dengan manusia maka komputer tersebut telah mampu "berpikir". Mampu "berpikir" dalam arti bahwa komputer tersebut dapat memberikan jawaban-jawaban semanusiawi dan sedetail mungkin sehingga manusia yang menjadi lawan bicaranya berpendapat bahwa komputer terebut adalah manusia. Namun, bagaimanapun komputer hanya dapat menjalankan perintah dan memberikan jawaban sesuai dengan apa yang telah disimpan programmer, sehingga menjadi tugas programmer untuk menciptakan komputer yang memiliki kepribadian yang detail dan lebih manusiawi. Diadakannya tes turing sebenarnya bukan semata-mata membuat komputer menjadi super cerdas, namun juga menuntut manusia untuk menemukan apa celah kelemahan manusia dan membuat suatu strategi dan sistem yang dapat menandingi sistem intelegensia buatan tersebut.
+
+• Apakah menurut anda, akan ada komputer yang bisa melewati Tes Turing suatu saat?
+http://tekno.kompas.com/read/2014/06/09/1340004/lulus.ujian.komputer.kelabui.manusia
+Dalam artikel tersebut dinyatakan bahwa telah ada sebuah program komputer dinyatakan lulus Tes Turing dalam sebuah kompetisi pada tahun 2014. Pada Kompetisi tersebut sebanyak 33 persen juri dikatakan yakin bahwa Eugene Goostman, program komputer yang dibuat oleh ilmuwan komputer Vladimir Veselov dari Rusia dan Eugene Demchenko dari Ukraina, itu adalah manusia. Eugene Goostman adalah sebuah program artificial intelligence (AI) yang dikembangkan mewakili sosok anak lelaki berusia 13 tahun yang suka makan hotdog dan permen, ayahnya seorang ahli ginekolog, dan berkebangsan Ukraina tersebut berhasil menjawab pertanyaan-pertanyaan juri lomba secara meyakinkan. Dengan adanya hal tersebut tidak menutupi kemungkinan akan semakin banyak kecerdasan buatan yang lolos dalam melewati tes turing kedepannya, dimana kecerdasan buatan tersebut lebih detail dan manusiawi dari kecerdasan buatan yang ada pada saat ini. 
+
+• Halangan apa saja yang menurut anda menghambat perkembangan komputer untuk melewati Tes Turing?
+
 
 2. Menjelaskan Istilah masing-masing sub bidang tersebut pada bidang AI serta berikan beberapa contoh implementasi.
 
