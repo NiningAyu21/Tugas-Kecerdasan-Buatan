@@ -18,7 +18,7 @@ Kelas : TP-B Pagi
       
 Jawab:
 
-•	Pengolahan Bahasa Alami 
+• Pengolahan Bahasa Alami 
 Pengolahan Bahasa Alami atau Natural Language Processing  adalah salah satu bidang ilmu komputer, kecerdasan buatan, dan bahasa (linguistik) yang berkaitan dengan interaksi antara komputer dan bahasa alami manusia, seperti bahasa Indonesia atau bahasa Inggris. Tujuan utama dari studi Natural Language Processing adalah membuat mesin yang mampu mengerti dan memahami makna bahasa manusia lalu memberikan respon yang sesuai.
 
 Sebuah Natural Language System harus memperhatikan pengetahuan terhadap bahasa itu sendiri, baik dari segi kata yang digunakan, bagaimana kata - kata tersebut digabung untuk menghasilkan suatu kalimat, apa arti sebuah kata, apa fungsi sebuah kata dalam sebuah kalimat dan sebagainya. Yang menjadi pembahasan bukan bagaimana bahasa diinput atau dimasukkan kedalam program, tetapi lebih kepada bagaimana mengartikan suatu bahasa atau mengcopy / mengambil informasi/pengetahuan dari suatu bahasa.
@@ -27,88 +27,85 @@ Inti dari pengolahan bahasa alami adalah penguraian kalimat atau sering disebut 
 Secara umum, Jenis aplikasi yang bisa dibuat dalam bidang ilmu Natural Language Processing terbagi dua, yaitu text-based application dan dialogue-based application.
 
 Text-based application adalah segala macam aplikasi yang melakukan proses terhadap teks tertulis seperti misalnya dokumen, e-mail, buku dan sebagainya. Beberapa jenis aplikasi Natural Language Processing yang berbasis teks :
--	Programs for classifying and retrieving documents by content.
+- Programs for classifying and retrieving documents by content.
 Program yang mampu mengklasifikasi dan mengambil isi dari suatu dokumen berdasarkan kontennya. Seperti spam filtering (pemfilteran pesan sampah), language identification (identifikasi bahasa), dan lain-lain.
 
--	Machine Translation.
+- Machine Translation.
 Program yang mampu mentranslasi kalimat baik berupa teks maupun suara dari satu bahasa alami ke bahasa lainnya. Contoh : Google Translate, Bing Translator, Free Translation, Dictionary.com Translator, ImTranslator.net, dan lain-lain.
 
 Dialogue-based application idealnya melibatkan bahasa lisan atau pengenalan suara, akan tetapi bisa juga memasukan interaksi dialog dengan mengetikkan teks pertanyaan melalui keyboard. Contoh :
--	Intelligent personal assistant.
+- Intelligent personal assistant.
 Perangkat lunak yang mampu melakukan tugas-tugas dan jasa berdasarkan inputan dari pengguna, lokasi, dan memiliki kemampuan untuk mengakses informasi dari berbagai sumber online (seperti cuaca, keadaan lalu lintas, berita, saham, dll). Contohnya adalah Siri pada produk-produk Apple dan S-Voice pada produk-produk seluler Samsung.
 
--	Chatbot.
+- Chatbot.
 Chatbot adalah program komputer yang didesain untuk mensimulasikan sebuah percakapan cerdas dengan satu atau lebih pengguna manusia melalui inputan suara atau teks, utamanya digunakan untuk percakapan kecil. Contoh : Cleverbot, SimSimi, dan begobet.
 
-
-•	Knowledge Representation 
+• Knowledge Representation 
 Knowledge Representation atau Representasi Pengetahuan adalah suatu proses untuk menangkap sifat-sifat penting problema dan membuat informasi tersebut dapat diakses oleh prosedur pemecahan permasalahan. Bahasa representasi harus dapat membuat seorang pemrogram mampu mengekpresikan pengetahuan yang diperlukan untuk mendapatkan solusi permasalahan. Representasi yang baik meliputi hal-hal sebagai  berikut: Mengemukakan hal secara eksplisit, Membuat masalah menjadi tranparan, Komplit dan efisien,  Menampilkan batasan-batasan alami yang ada, Menekan/menghilangkan detil-detil yang diperlukan, Dapat dilakukan komputasi (ada batasan/konstrait). Jika suatu permasalahan dideskripsikan  dengan menggunakan representasi yang tepat, maka dapat dipastikan bahwa permasalahan tersebut dapat diselesaikan.
 
 Terdapat beberapa model atau bentuk representasi pengetahuan yang telah dikembangkan, yaitu :
--	Logika
+- Logika
 Suatu pengkajian ilmiah tentang serangkaian penalaran, sistem kaidah, dan prosedur yang membantu penalaran. Komputer harus dapat menggunakan proses penalaran deduktif dan induktif kedalam bentuk yang sesuai dengan manipulasi komputer, yaitu logika simbolik atau matematika.
 
--	Jaringan Semantik (Semantic nets)
+- Jaringan Semantik (Semantic nets)
 Jaringan Semantik adalah tehnik representasi dalam artificial intelligence klasik untuk informasi proposional, sehingga sering kali disebut sebagai poporsional network. Proposisi adalah pernyataan yang dapat bernilai benar atau salah dan merupakan bentuk pengetahuan deklaratif.
 Semantic network pertama kali dikembangkan untuk AI sebagai cara untuk mempresentasikan memory dan pemahaman bahasa manusia. Struktur semantic nets berupa grafik dengan node (simpul) dan arc (ruas) yang menghubungkannya.
 
--	Object-Attribute-Value (OAV)
+- Object-Attribute-Value (OAV)
 Bentuk object-attribute-value triple daapat digunakan untuk mempresentasikan semua karakteristik pengetahuan dalam semantic net dan digunakan pada sistem pakar MYCIN untuk mendiagnosa penyakit infeksi.
 
--	Bingkai (Frame)
+- Bingkai (Frame)
 Salah satu tipe skema yang digunakan dalam beberapa aplikasi AI adalah frame. Frame merupakan struktur yang baik untuk mempresentasikan objek yang tipikal dalam situasi tertentu. Karakteristik dasar frame adalah frame mempresentasikan pengetahuan yang terkait mengenai sebuah subjek yang sempit dan memiliki default. Sistem frame adalah pilihan yang baik untuk mendeskripsikan peralatan mekanik seperti mobil.
 Frame mencoba memodelkan obyek yang ada di dunia nyata menggunakan pengetahuan generik untuk atribut yang banyak dimiliki oleh obyek dan pengetahuan spesifik untuk kasus khusus. Contoh: Deskripsi frame untuk robot.
 
--	Aturan Produksi (production rule)
+- Aturan Produksi (production rule)
 Aturan produksi adalah jenis representasi pengetahuan yang paling umum digunakan karena memiliki keuntungan yang lebih dibandingkan dengan kekurangannya. Aturan Produksi sering digunakan untuk merepresentasikan pengetahuan pada Sistem Pakar.
 
-•	Automated Reasoning 
+• Automated Reasoning 
 Automated Reasoning atau Penalaran Otomatis merupakan bidang ilmu komputer dan logika matematika didedikasikan untuk memahami berbagai aspek penalaran yang mana menjadikan komputer untuk  menerapkan penalaran logis dalam memecahkan masalah, misalnya untuk membuktikan teorema, memecahkan teka-teki, sirkuit desain, verifikasi atau mensintesis program komputer. Studi tentang penalaran otomatis membantu menghasilkan program komputer yang memungkinkan komputer untuk alasan sepenuhnya, atau hampir sepenuhnya, secara otomatis. 
 
 Objek Penalaran Otomatis adalah menulis program komputer yang membantu dalam memecahkan masalah dan dalam menjawab pertanyaan-pertanyaan yang membutuhkan penalaran. Bantuan yang diberikan oleh program penalaran otomatis tersedia dalam dua modus yang berbeda. Aspek penting dalam memecahkan suatu masalah utama dalam suatu program adalah menemukan jawaban dari suatu teka teki dan kemudian memutuskan bahasa apa yang digunakan untuk mewakili dalam pemberian informasi tentang bagaimana cara memecahkan teka teki tersebut, setelah menyelesaikan semua itu maka akan dapat menarik kesimpulan. Jika suatu program telah berjalan, maka programmer akan membuat komputasi yang kiranya rumit menjadi lebih efisien. Ketika penelitan utama dari pekerjaan telah didapatkan maka dibuatlah kerangka teori yang didalamnya membahas beberapa point yang  diantaranya adalah automated reasoning yang pembahasan didalamnya menjawab segala pertanyaan didalam suatu masalah dengan logika dan matematika.
 
 Beberapa metode yang digunakan dalam automata untuk mengambil sebuah keputusan, diantaranya adalah Kalkulasi Sekuensial, Deduksi , Metode Hubungan Matriks, Term Rewriting, Induksi Matematika. Contohnya: Logika Pemrograman, Aljabar Komputer Deduktif, Verifikasi Formal Perangkat Keras.
 
-•	Machine Learning
+• Machine Learning
 Machine learning atau Pembelajaran Mesin adalah subfield ilmu komputer dan kecerdasan buatan (AI) yang berhubungan dengan pembangunan dan studi tentang sistem yang bisa belajar dari data, bukan hanya mengikuti instruksi eksplisit diprogram. Dengan kata lain machine learning merupakan ilmu yang mempelajari bagaimana memberikan kemampuan terhadap komputer untuk melakukan aktifitas belajar guna menyelesaikan masalah secara mandiri. 
 
 Pada dasarnya ilmu ini mempelajari bagaimana cara mengajarkan komputer cara belajar berdasarkan data-data yang ada dan mempelajari fenomena didalamnya yang nantinya berupa model atau knowledge yang digunakan untuk kasus-kasus yang akan muncul dimasa yang akan datang. Dalam learning dibagi menjadi 2 pendekatan dalam proses learningnya yaitu : Inductive Learning dan Deductive Learning.
 
-Deductive Learning biasanya merupakan proses belajar berdasarakan informasi yang general untuk menyelesaikan masalah yang spesifik.
-
-Sedangkan Inductive Learning biasnaya merupakan proses belajar berdasarkan informasi yang spesifik seperti contoh-contoh kasus yang sudah diselesaikan beserta hasilnya guna mendapatkan pola dalam menyelesaikan masalah tersebut, dan pola yang didapatkan dari informasi-informasi spesifik tersebut digunakan untuk menyelesaikan masalah yang baru/akan datang.
+Deductive Learning biasanya merupakan proses belajar berdasarakan informasi yang general untuk menyelesaikan masalah yang spesifik. Sedangkan Inductive Learning biasnaya merupakan proses belajar berdasarkan informasi yang spesifik seperti contoh-contoh kasus yang sudah diselesaikan beserta hasilnya guna mendapatkan pola dalam menyelesaikan masalah tersebut, dan pola yang didapatkan dari informasi-informasi spesifik tersebut digunakan untuk menyelesaikan masalah yang baru/akan datang.
 
 Manfaat Machine Learning dalam kehidupan sehari-hari yaitu: speech recognition, fingerprint recognition, handwriting recognition, Syntactic pattern recognition, Medical diagnosis, Bioinformatics, Brain-machine interfaces, Cheminformatics, Detecting credit card fraud, Stock market analysis, Classifying DNA sequences, Adaptive websites, Robot locomotion dan lain-lain.
 
 Banyak sekali riset dilakukan untuk menciptakan mesin yang lebih cerdas. Contoh yang paling mutakhir yang dapat kita lihat adalah Asimo, sebuah robot cerdas buatan Honda, yang dapat mengenali pemiliknya dan mengenal emosi. Agar dapat membuat sebuah robot secerdas Asimo, maka beberapa teknik AI diaplikasikan kedalamnya, seperti speech recognition untuk dapat berinteraksi, image recognition untuk dapat mengenali wajah pemiliknya dan mengenali ruangan serta masih banyak aplikasi lainnya lagi.
 
-•	Computer Vision
+• Computer Vision
 Computer Vision atau Visi Komputer adalah ilmu dan teknologi mesin yang melihat, di mana mesin mampu mengekstrak informasi dari gambar yang diperlukan untuk menyelesaikan tugas tertentu. 
 
 Computer Vision atau Visi Komputer didefinisikan sebagai salah satu cabang ilmu pengetahuan yang mempelajari bagaimana komputer dapat mengenali obyek yang diamati. Cabang ilmu ini bersama Artificial Intelligence akan mampu menghasilkan Visual Intelligence System. Perbedaannya adalah Computer Vision lebih mempelajari bagaimana komputer dapat mengenali obyek yang diamati. Namun komputer grafik lebih ke arah pemanipulasian gambar (visual) secara digital. Bentuk sederhana dari grafik komputer adalah grafik komputer 2D yang kemudian berkembang menjadi grafik komputer 3D, pemrosesan citra, dan pengenalan pola. Grafik komputer sering dikenal dengan istilah Visualisasi Data.
 Computer Vision atau Visi Komputer adalah kombinasi antara :
--	Pengolahan Citra (Image Processing), bidang yang berhubungan dengan proses transformasi citra/gambar (Image). Proses ini bertujuan untuk mendapatkan kualitas citra yang lebih baik.
+- Pengolahan Citra (Image Processing), bidang yang berhubungan dengan proses transformasi citra/gambar (Image). Proses ini bertujuan untuk mendapatkan kualitas citra yang lebih baik.
 
--	Pengenalan Pola (Pattern Recognition), bidang ini berhubungan dengan proses identifikasi obyek pada citra atau interpretasi citra. Proses ini bertujuan untuk mengekstrak informasi/pesan yang disampaikan oleh gambar/citra.
+- Pengenalan Pola (Pattern Recognition), bidang ini berhubungan dengan proses identifikasi obyek pada citra atau interpretasi citra. Proses ini bertujuan untuk mengekstrak informasi/pesan yang disampaikan oleh gambar/citra.
 
 Beberapa aplikasi yang dihasilkan dari Computer Vision antara lain :
--	Psychology, AI – exploring representation and computation in natural vision
--	Optical Character Recognition – text reading
--	Remote Sensing – land use and environmental monitoring
--	Medical Image Analysis – measurement and interpretation of many types of images
--	Industrial Inspection – measurement, fault checking, process control
--	Robotic – navigation and control
+- Psychology, AI – exploring representation and computation in natural vision
+- Optical Character Recognition – text reading
+- Remote Sensing – land use and environmental monitoring
+- Medical Image Analysis – measurement and interpretation of many types of images
+- Industrial Inspection – measurement, fault checking, process control
+- Robotic – navigation and control
 
-•	Robotika
+• Robotika
 Robotika adalah cabang dari teknologi yang berhubungan dengan desain, konstruksi, operasi, disposisi struktural, pembuatan, dan aplikasi robot. Kecerdasan Buatan (Artificial Intelligence) dalam robotik adalah suatu algorithma (yang dipandang) cerdas yang diprogramkan ke dalam kontroler robot.
 
 Berdasarkan penggunaannya robot dapat digolongkan sebagai:
--	Robot pribadi (Personal Robots)
+- Robot pribadi (Personal Robots)
 Juga disebut dengan home robots (robot rumah tangga), karena terutama ditujukan untuk membantu pekerjaan-pekerjaan rumah tangga menjadi lebih otomatis.
 
--	Robot Industri (Industrial Robots)
+- Robot Industri (Industrial Robots)
 Robot Industri merupakan robot yang digunakan untuk membantu di dalam proses produksi, misalnya untuk menangani material, mengelas, mengecat, memasang komponen dan lain sebagainya.
 
--	Robot Pendidikan (Educational Robots).
+- Robot Pendidikan (Educational Robots).
 Robot pendidikan ini dikembangkan untuk tujuan membantu di dalam mengajar tentang operai dan penggunaan dari robot industry.
 
